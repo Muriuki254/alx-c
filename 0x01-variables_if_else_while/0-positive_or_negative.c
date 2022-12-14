@@ -1,11 +1,21 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+<<<<<<< HEAD
+=======
+
+>>>>>>> ef4105431b5cb796856c48752fc8eef353c599dd
 /**
  * main - main function to generate a random number
  *
  * Return: Always 0 (Success)
+<<<<<<< HEAD
  */
+=======
+ *
+ */
+
+>>>>>>> ef4105431b5cb796856c48752fc8eef353c599dd
 int main(void)
 {
 	int n;
